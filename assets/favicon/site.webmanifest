@@ -1,0 +1,14 @@
+{
+  "name": "PHIRIT",
+  "short_name": "PHIRIT",
+  "description": "Ecosistema PHIRIT para salud: RIS, PACS, informes y portal de pacientes.",
+  "icons": [
+    { "src": "/assets/favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#1c9aea",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
